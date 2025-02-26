@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FormProjectBasicOne</string>
+    <string name="name_contact">Name</string>
+    <string name="phone_contact">Phone</string>
+    <string name="area_contact">Area</string>
+    <string name="address_contact">Address</string>
+    <string name="city_contact">City</string>
+    <string name="email_contact">Email</string>
+    <string name="birthday_contact">Birthday</string>
+    <string name="save_contact">Save</string>
+    <string name="campo_required">Campo required</string>
+</resources>
